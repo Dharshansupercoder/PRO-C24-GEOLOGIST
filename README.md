@@ -1,2 +1,2 @@
-# PRO-C24-GEOLOGIST
-PRO-C24: GEOLOGIST GAME BY DHARSHAN
+# p5.play-boilerplate
+Boiler plate for p5.play
